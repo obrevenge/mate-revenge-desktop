@@ -66,6 +66,86 @@
     <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
+
+		<name>besieged</name>
+		<filename>/usr/share/Wallpaper/besieged.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+
+		<name>blackscarlet</name>
+		<filename>/usr/share/Wallpaper/blackscarlet.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+
+		<name>capgras</name>
+		<filename>/usr/share/Wallpaper/capgras.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+
+		<name>fathomless</name>
+		<filename>/usr/share/Wallpaper/fathomless.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+
+		<name>freedom</name>
+		<filename>/usr/share/Wallpaper/freedom.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+
+		<name>insidesouls</name>
+		<filename>/usr/share/Wallpaper/insidesouls.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+
+		<name>lastendeavor</name>
+		<filename>/usr/share/Wallpaper/lastendeavor.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+
+		<name>shadows</name>
+		<filename>/usr/share/Wallpaper/shadows.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+
+		<name>tearstains</name>
+		<filename>/usr/share/Wallpaper/tearstains.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+
+		<name>timeofhell</name>
+		<filename>/usr/share/Wallpaper/timeofhell.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
 		
 		<name>Lock Screen</name>
 		<name xml:lang="an">Pantalla blocada</name>
