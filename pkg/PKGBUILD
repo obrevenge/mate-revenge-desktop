@@ -1,14 +1,14 @@
 # Maintainer: Jody James <ajjames31@gmail.com>
 
 pkgname=mate-revenge-desktop
-pkgver=1.02
+pkgver=1.04
 pkgrel=1
 pkgdesc="Desktop Meta-Package for Mate Revenge"
 arch=('any')
 license=('GPL')
 makedepends=('git')
 url=https://github.com/obrevenge/mate-revenge-desktop
-depends=('python2' 'revenge-software-install-tool' 'revenge-tools' 'revenge-welcome' 'revenge-wallpapers' 'w3m' 'imagemagick' 'qt4' 'neofetch' 'scrot' 'faenza-icon-theme' 'arc-gtk-theme' 'vibrancy-colors' 'numix-gtk-theme' 'numix-icon-theme-pack-git' 'mate-themes' 'surfn-icons-git' 'gptfdisk' 'ntfs-3g' 'sl' 'pavucontrol' 'qt5-styleplugins' 'qt5ct' 'mkinitcpio-openswap' 'squashfs-tools' 'gksu' 'zenity' 'pamac-aur' 'pacaur' 'yad' 'gparted' 'htop' 'rsync' 'reflector' 'engrampa' 'ttf-dejavu' 'mate-tweak' 'brisk-menu' 'plank' 'mate-applet-dock' 'mate-menu' 'mate-netbook' 'tilda' 'topmenu-gtk' 'blueman' 'metacity')
+depends=('python2' 'revenge-software-install-tool' 'revenge-tools' 'revenge-welcome' 'revenge-wallpapers' 'w3m' 'imagemagick' 'qt4' 'neofetch' 'scrot' 'faenza-icon-theme' 'arc-gtk-theme' 'vibrancy-colors' 'numix-gtk-theme' 'numix-icon-theme-pack-git' 'mate-themes' 'surfn-icons-git' 'gptfdisk' 'ntfs-3g' 'sl' 'pavucontrol' 'qt5-styleplugins' 'qt5ct' 'mkinitcpio-openswap' 'squashfs-tools' 'gksu' 'zenity' 'pamac-aur' 'pacaur' 'yad' 'gparted' 'htop' 'rsync' 'reflector' 'engrampa' 'ttf-dejavu' 'mate-tweak' 'brisk-menu' 'plank' 'mate-applet-dock' 'mate-menu' 'mate-netbook' 'tilda' 'topmenu-gtk' 'blueman' 'metacity' 'nerd-fonts-complete')
 source=("git+$url.git")
 md5sums=('SKIP')
 install=$pkgname.install
